@@ -1,3 +1,4 @@
+PR. 2 Analyzer – Sales and Profit Analytics Project
 Project Overview
 PR. 2 Analyzer – Sales and Profit Analytics Project is a Microsoft Excel-based data analysis project designed to transform raw sales data into meaningful business insights using Excel formulas, statistical analysis, conditional formatting, PivotTables, charts, and dashboard techniques.
 
